@@ -41,8 +41,8 @@ body {
 	border: 1px solid black;
 	text-align: center;
 	position: absolute;
-	right: 0;
-	top: 0;
+	right: -1px;
+	top: -1px;
 }
 .type2 {
 	width: 33%;
@@ -50,8 +50,8 @@ body {
 	border: 1px solid black;
 	text-align: center;
 	position: absolute;
-	right: 0;
-	top: 0;
+	right: -1px;
+	top: -1px;
 }
 .type3 {
 	width: 33%;
@@ -59,8 +59,8 @@ body {
 	border: 1px solid black;
 	text-align: center;
 	position: absolute;
-	right: 0;
-	top: 0;
+	right: -1px;
+	top: -1px;
 }
 .row {
 	width: 100%;
